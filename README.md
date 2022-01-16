@@ -3,6 +3,7 @@
 
 - 📫 How to reach me: **annaviraja.arikrishnan@yahoo.com** / <a href="https://wa.me/919791337337" target="_blank">WhatsApp</a>
 - <a href="https://drive.google.com/file/d/1S2FDUxoz4wVIQm2zawewQsjgQEVoDMIW/view?usp=sharing">Portfolio</a> 
+- <a href="https://annaviraja.netlify.app/">Resume</a> 
 
 <h3 align="left">Languages & Tools:</h3>
 
