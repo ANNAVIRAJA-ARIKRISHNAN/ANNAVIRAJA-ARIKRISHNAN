@@ -2,8 +2,8 @@
 <h3>I'm a full stack developer, currently specialising in development of React, Node, C#, MVC, WCF, JavaScript, MongoDB, MSSQL Server</h3>
 
 - 📫 How to reach me: **annaviraja.arikrishnan@yahoo.com** / <a href="https://wa.me/919791337337" target="_blank">WhatsApp</a>
-- <a href="https://drive.google.com/file/d/1S2FDUxoz4wVIQm2zawewQsjgQEVoDMIW/view?usp=sharing">Resume</a> 
-- <a href="https://annaviraja.netlify.app/">Portfolio</a> 
+- <a href="https://drive.google.com/file/d/1S2FDUxoz4wVIQm2zawewQsjgQEVoDMIW/view?usp=sharing"  target="_blank">Resume</a> 
+- <a href="https://annaviraja.netlify.app/" target="_blank">Portfolio</a> 
 
 <h3 align="left">Languages & Tools:</h3>
 
