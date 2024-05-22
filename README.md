@@ -38,7 +38,8 @@
   <a href="https://www.facebook.com/annaviraja.arikrishnan" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
-<h3>My Projects:</h3>
+<!--<h3>My Projects:</h3>
 <p>
 Check the pinned repositories below. 👇
 </p>
+-->
